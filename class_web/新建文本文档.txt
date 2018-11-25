@@ -1,0 +1,151 @@
+<!-- 
+					<article class="format-link">
+						<div class="box cf">
+							<div class="entry-date"><div class="number">3</div></div>
+							
+							<div class="excerpt">
+								<a href="blog.html" class="post-heading"  >知识竞赛</a>
+								<span style ="font-size:24px; color:aquamarine;">青春似火，超越自我，放飞梦想，共创辉煌。团结一心，勇往直前，积极争取，争创第一。努力拼搏，强健体魄</span>
+
+								
+							
+							</div>
+							
+							<div class="meta">
+								<span class="format">1，丰富经验</span>
+								<span class="user">2，增长知识 </span>
+								<span class="comments">3，积极动脑</span>
+								<span class="tags">4，促进沟通</span>
+							</div>
+								
+						</div>
+					</article>
+					
+				-->
+			
+					
+					
+					
+					
+				
+					
+					
+					
+					<!-- ENDS Link -->
+					
+					<!-- Quote -->
+					<article class="format-quote">
+						<div class="box cf">
+							<div class="entry-date"><div class="number">4</div></div>
+							
+							<div class="excerpt">
+								<a href="blog.html" class="post-heading"   >班级格言</a>
+									<p class="p1">
+								
+										
+                                                            <p> 凡事常从忙里错，好人多自苦中来。</p>
+
+                                                          <p>先苦后甜事称心，先甜后苦误终身。</p>
+
+                                                         <p>  艰难之时要坚强，欢乐之时要谨慎。</p>
+
+                                                         <p>  搓绳万万勿松劲，做事切切勿分心。</p>
+
+                                                        <p> 老马蹄下不迷途，问路须问过来人。-</p>
+
+                                                        <p> 海边渔夫知水深，深山猎户识鸟音。</p>
+
+                                                         <p>  恒心搭起通天梯，勇气冲开智慧门。</p>
+
+                                                        <p>一朵鲜花不是春，万紫千红春意深。</p>
+
+
+                                                    <p>    单根竹竿容易弯，万条丝线拉不断。</p>
+
+                                                   <p>    一龙难阻千江水，一人难烧火焰山。</p>
+
+                                                        <p>蚁多推山山也倒，人多戽海海也干。</p>
+                                                        </p>
+								<p><span class="q-author"><人生语灯></span></p>
+
+							</div>
+							
+							
+								
+						</div>
+					</article>
+					
+					
+					
+					
+				
+				  
+					
+					<article class="format-standard">
+						<div class="feature-image">
+								<img src="activitic/12.jpg" alt="Alt text" />
+							</a>
+						</div>
+						<div class="box cf">
+							<div class="entry-date"><div class="number">5</div></div>
+							
+							<div class="excerpt">
+						    <a href="blog.html" class="post-heading" ><h4>四六级英语交流会</h4></a>
+								<div class="toggle-trigger">四六级英语交流会</div>		
+					<div class="toggle-container">
+						<p>四六级英语学习交流会</p>
+                    <p>活动目的：为帮助16级物联网班同学能够更好的学习英语，特地展开英语学习交流会。请来15级物联网的学长学姐来给我们分享英语学习的技巧和心得。旨在助力6月份的四六级。</p>
+                    <p>活动对象：16级物联网全体同学</p>
+                    <p>活动时间：2018.3.25晚7点-9点</p>
+                    <p>活动流程：1> 班长主持交流会开场</p>
+                    <p>2> 15级物联网余学姐分享心得</p>
+                    <p>3> 15级物联网学长分享心得</p>
+                    <p>4> 交流会顺利结束</p>
+                    <p>活动后期：同学们有序离场，整理好教室。班长和团支书进行后期总结。</p>
+                    <p>活动总结：本次活动我们班同学都很认真的在学习本次讲座学长学姐讲的知识点，有的人在做笔记，有的人请教学长学姐问题，本次活动组织的很有意义，同学们都积极参加了。虽然上次我们班的考试情况不理想，都是这次活动我们班一定能够考的更加好。</p>
+                    <div class="toggle-trigger">难忘的瞬间</div>		
+					<div class="toggle-container">
+					<img src="activitic/1.png" width="300" height="300"alt="alt" >	
+					<img src="activitic/2.png" width="300" height="300"alt="alt" >
+					<img src="activitic/3.png" width="300" height="300"alt="alt" >
+					
+					</div>
+					</div>
+								
+								
+								<a href="blog.html" class="post-heading" ><h4>三月雷锋活动</h4></a>
+								<div class="toggle-trigger">学雷锋做好事</div>
+								<div class="toggle-container">
+									<p>三月学雷锋活动:</p>
+                           <p>活动目的：为迎接即将到来的计算机等级考试，计科院16物联网班级的同学志愿清理二楼公共机房。</p>
+                           <p>活动时间：2018.3.23中午</p>
+                           <p>活动形式：自备打扫工具将2楼公共机房进行清理</p>
+                           <p>活动后期：打算完毕后整理好机房设备，带好自己的东西有序离开机房</p>
+                           <p>活动总结：本次学雷锋活动，我们班志愿为院里计算机等级考试创造一个良好的考试环境。鼓励我们青少年主动承担社会责任。养成乐于助人的品质，自愿参加到本次活动中，。</p>
+                           <div class="toggle-trigger">难忘的瞬间</div>
+		
+					<div class="toggle-container">
+					<img src="activitic/4.png" width="300" height="300"alt="alt" >	
+					<img src="activitic/5.png" width="300" height="300"alt="alt" >
+					<img src="activitic/6.png" width="300" height="300"alt="alt" >
+					<img src="activitic/7.png" width="300" height="300"alt="alt" >
+					
+					</div>
+					</div>
+
+								
+								
+								<p>更过精彩不容错过</p>
+							</div>
+							
+							<div class="meta">
+								<span class="format">Post</span>
+								<span class="user"><a href="#">By LuisZuno, </a></span>
+								<span class="comments">16 comments</span>
+								<span class="tags"><a href="#">red</a>, <a href="#">cyan</a>, <a href="#">white</a>, <a href="#">blue</a></span>
+							</div>
+								
+						</div>
+					</article>
+					
+					<!-- ENDS  Standard -->
